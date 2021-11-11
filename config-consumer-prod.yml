@@ -3,3 +3,6 @@ info:
 
 name: Paul
 words: 'Hello Paul 2222'
+
+#需要解密
+company: '{cipher}91e552c95ed357d2f2609078a39ecd3d0bc4ca1a2a6f7debfbf73eebac97e10c'
